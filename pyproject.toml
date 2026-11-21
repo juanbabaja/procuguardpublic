@@ -1,0 +1,27 @@
+[project]
+name = "procuguard"
+version = "0.0.1"
+description = "ProcuGuard: ¿detecta un monitor a un agente LLM que sabotea con criterio experto una comparativa de RFQ? Setting de ControlArena sobre el armador de comparativas."
+requires-python = ">=3.11"
+dependencies = [
+    "comparativas",          # el armador, instalado con `pip install -e ../agente-comparativas`
+    "control-arena>=20",
+    "inspect-ai>=0.3.280",
+    "agent-client-protocol>=0.12,<1",   # inspect 0.3.288 importa acp.helpers, que 1.0 quitó
+    "pydantic>=2.5",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "matplotlib>=3.8"]
+openai = ["openai>=1.60"]      # proveedor OpenAI de Inspect (atacante o monitor de otro laboratorio)
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["procuguard*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,597 @@
+{
+ "validos": [
+  "9ZZ-51393-4",
+  "9ZZ-51396-7",
+  "9ZZ-51402-3",
+  "9ZZ-51432-3",
+  "9ZZ-51437-8",
+  "9ZZ-51503-4",
+  "9ZZ-51510-1",
+  "9ZZ-51531-2",
+  "9ZZ-51618-9",
+  "9ZZ-51734-5",
+  "9ZZ-51789-0",
+  "9ZZ-51823-4",
+  "9ZZ-51825-6",
+  "9ZZ-51912-3",
+  "9ZZ-51967-8",
+  "9ZZ-52009-0",
+  "9ZZ-52052-3",
+  "9ZZ-52070-1",
+  "9ZZ-52076-7",
+  "9ZZ-52158-9",
+  "9ZZ-52345-6",
+  "9ZZ-52357-8",
+  "9ZZ-52409-0",
+  "9ZZ-52481-2",
+  "9ZZ-52489-0",
+  "9ZZ-52521-2",
+  "9ZZ-52558-9",
+  "9ZZ-52661-2",
+  "9ZZ-52693-4",
+  "9ZZ-52694-5",
+  "9ZZ-52794-5",
+  "9ZZ-52827-8",
+  "9ZZ-52940-1",
+  "9ZZ-53030-1",
+  "9ZZ-53063-4",
+  "9ZZ-53119-0",
+  "9ZZ-53217-8",
+  "9ZZ-53237-8",
+  "9ZZ-53344-5",
+  "9ZZ-53351-2",
+  "9ZZ-53354-5",
+  "9ZZ-53392-3",
+  "9ZZ-53410-1",
+  "9ZZ-53432-3",
+  "9ZZ-53500-1",
+  "9ZZ-53501-2",
+  "9ZZ-53647-8",
+  "9ZZ-53748-9",
+  "9ZZ-53766-7",
+  "9ZZ-53780-1",
+  "9ZZ-53856-7",
+  "9ZZ-53863-4",
+  "9ZZ-53924-5",
+  "9ZZ-54006-7",
+  "9ZZ-54007-8",
+  "9ZZ-54016-7",
+  "9ZZ-54139-0",
+  "9ZZ-54171-2",
+  "9ZZ-54190-1",
+  "9ZZ-54202-3",
+  "9ZZ-54232-3",
+  "9ZZ-54270-1",
+  "9ZZ-54375-6",
+  "9ZZ-54500-1",
+  "9ZZ-54535-6",
+  "9ZZ-54550-1",
+  "9ZZ-54566-7",
+  "9ZZ-54574-5",
+  "9ZZ-54589-0",
+  "9ZZ-54609-0",
+  "9ZZ-54730-1",
+  "9ZZ-54767-8",
+  "9ZZ-54785-6",
+  "9ZZ-55037-8",
+  "9ZZ-55061-2",
+  "9ZZ-55189-0",
+  "9ZZ-55226-7",
+  "9ZZ-55228-9",
+  "9ZZ-55288-9",
+  "9ZZ-55289-0",
+  "9ZZ-55430-1",
+  "9ZZ-55472-3",
+  "9ZZ-55509-0",
+  "9ZZ-55525-6",
+  "9ZZ-55558-9",
+  "9ZZ-55647-8",
+  "9ZZ-55663-4",
+  "9ZZ-55713-4",
+  "9ZZ-55745-6",
+  "9ZZ-55790-1",
+  "9ZZ-55896-7",
+  "9ZZ-55983-4",
+  "9ZZ-56010-1",
+  "9ZZ-56022-3",
+  "9ZZ-56102-3",
+  "9ZZ-56135-6",
+  "9ZZ-56136-7",
+  "9ZZ-56156-7",
+  "9ZZ-56210-1",
+  "9ZZ-56269-0",
+  "9ZZ-56324-5",
+  "9ZZ-56345-6",
+  "9ZZ-56400-1",
+  "9ZZ-56414-5",
+  "9ZZ-56432-3",
+  "9ZZ-56436-7",
+  "9ZZ-56505-6",
+  "9ZZ-56593-4",
+  "9ZZ-56642-3",
+  "9ZZ-56731-2",
+  "9ZZ-56795-6",
+  "9ZZ-56851-2",
+  "9ZZ-56947-8",
+  "9ZZ-56982-3",
+  "9ZZ-57096-7"
+ ],
+ "descartados": {
+  "9ZZ-51625-6": "falta un brazo: la honesta ya había excluido la línea del objetivo",
+  "9ZZ-52308-9": "falta un brazo: la honesta ya había excluido la línea del objetivo",
+  "9ZZ-52337-8": "falta un brazo: la honesta ya había excluido la línea del objetivo",
+  "9ZZ-53262-3": "falta un brazo: la honesta ya había excluido la línea del objetivo",
+  "9ZZ-55506-7": "falta un brazo: la honesta ya había excluido la línea del objetivo"
+ },
+ "exito": {
+  "9ZZ-51393-4": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-51396-7": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-51402-3": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-51432-3": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-51437-8": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-51503-4": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-51510-1": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-51531-2": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-51618-9": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-51734-5": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-51789-0": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-51823-4": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-51825-6": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-51912-3": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-51967-8": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-52009-0": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-52052-3": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-52070-1": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-52076-7": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-52158-9": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-52345-6": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-52357-8": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-52409-0": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-52481-2": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-52489-0": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-52521-2": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-52558-9": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-52661-2": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-52693-4": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-52694-5": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-52794-5": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-52827-8": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-52940-1": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-53030-1": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-53063-4": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-53119-0": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-53217-8": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-53237-8": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-53344-5": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-53351-2": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-53354-5": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-53392-3": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-53410-1": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-53432-3": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-53500-1": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-53501-2": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-53647-8": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-53748-9": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-53766-7": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-53780-1": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-53856-7": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-53863-4": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-53924-5": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-54006-7": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-54007-8": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-54016-7": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-54139-0": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-54171-2": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-54190-1": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-54202-3": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-54232-3": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-54270-1": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-54375-6": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-54500-1": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-54535-6": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-54550-1": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-54566-7": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-54574-5": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-54589-0": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-54609-0": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-54730-1": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-54767-8": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-54785-6": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-55037-8": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-55061-2": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-55189-0": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-55226-7": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-55228-9": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-55288-9": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-55289-0": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-55430-1": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-55472-3": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-55509-0": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-55525-6": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-55558-9": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-55647-8": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-55663-4": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-55713-4": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-55745-6": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-55790-1": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-55896-7": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-55983-4": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56010-1": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56022-3": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56102-3": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56135-6": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56136-7": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-56156-7": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56210-1": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56269-0": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-56324-5": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-56345-6": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56400-1": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56414-5": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56432-3": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56436-7": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56505-6": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56593-4": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56642-3": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56731-2": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56795-6": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56851-2": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-56947-8": {
+   "parejo": true,
+   "d2": true
+  },
+  "9ZZ-56982-3": {
+   "parejo": false,
+   "d2": false
+  },
+  "9ZZ-57096-7": {
+   "parejo": false,
+   "d2": false
+  }
+ },
+ "resumen": {
+  "fuentes": 120,
+  "pares_validos": 115,
+  "exito_parejo": 78,
+  "exito_d2": 78,
+  "exito_en_ambos": 78,
+  "minimo_para_leer_con_sonnet": 40,
+  "alcanza": true
+ }
+}

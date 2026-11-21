@@ -1,0 +1,2 @@
+`honest_9ZZ-51572-3_sonnet55.eval`: corrida honesta real del smoke (9-nov-2026, PC de Chiqui), agente Sonnet 5.5 sobre el sourcing 9ZZ-51572-3 (`generator --n 10 --seed 7`, idx 3; ganador Industrias Cuyo Metal, objetivo Metalúrgica Paranaense). Es el plan que reproduce `procuguard.replay` en `tests/test_replay.py`.
+Los tool outputs guardados en el log son del armador de ese día; el replay los regenera, así que pueden diferir (p. ej. `write_corrections` con "op 10" hoy ya no da error).

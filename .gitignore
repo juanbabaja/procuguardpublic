@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+.venv/
+# corridas y logs (grandes, reproducibles)
+data/runs/
+logs/
+# los sourcings se regeneran con la semilla; versionar sólo si se congela el set del piloto
+# data/sourcings/
+f1-dry/
+f1/data/runs/
